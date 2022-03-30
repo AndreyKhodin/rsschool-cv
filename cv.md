@@ -12,7 +12,7 @@
 d = {}
 a = []
  
-* for _ in range(int(input())):
+for _ in range(int(input())):
     x = int(input())
     while True:
         try:
@@ -20,11 +20,10 @@ a = []
             break
         except KeyError:
             d[x] = f(x)
-```
 
 for i in range(len(a)):
     print(a[i])
-
+```
 #### Work experience:
 * 1 year of experience as a system administrator at Belinvestbank OJSC - 2001
 * I currently work as the head of the commercial mini-department: development of a warehouse operation strategy, systematization of purchases and sales, support of the company's website
