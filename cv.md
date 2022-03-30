@@ -5,7 +5,7 @@
 * E-mail: khodin9@gmail.com
 * Tel: +375291936459
 * About myself:
-  + I old man who want to learn Front-End Development in RSSchool, and then work in this field
+  + I old man who want to learn Front-End Development in RSSchool, and then work in this 
 
 ### Code example:
 ```
