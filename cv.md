@@ -8,7 +8,22 @@
   + I old man who want to learn Front-End Development in RSSchool, and then work in this field
 
 ### Code example:
+```
+d = {}
+a = []
+ 
+* for _ in range(int(input())):
+    x = int(input())
+    while True:
+        try:
+            a.append(d[x])
+            break
+        except KeyError:
+            d[x] = f(x)
+```
 
+for i in range(len(a)):
+    print(a[i])
 
 #### Work experience:
 * 1 year of experience as a system administrator at Belinvestbank OJSC - 2001
