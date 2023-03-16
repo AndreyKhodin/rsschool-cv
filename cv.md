@@ -30,7 +30,7 @@ for i in range(len(a)):
 * Now I work the head of the commercial mini-department: development of a warehouse operation strategy, systematization of purchases and sales, support of the company's website
 
 #####  Education and courses:
-* BNTU Minsk engineer mechanical 1994-199
+* BNTU Minsk engineer mechanical 1994-1999
 * Web technology Stepik course 2021
 * Python course of Stepik 2021
 * Electronics engineer 2022-2023
