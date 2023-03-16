@@ -35,6 +35,7 @@ for i in range(len(a)):
 * Python course of Stepik 2021
 * Electronics engineer 2022-2023
 * JavaScript https://learn.javascript.ru/ - now
+* Rsschool - now
 
 ###### Language:
 English level - A2 )I'm hope)
